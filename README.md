@@ -3,7 +3,7 @@
 
 
 ![image](
-       ./src/img_05.PNG
+       ./media/img_05.PNG
        )
 
 
