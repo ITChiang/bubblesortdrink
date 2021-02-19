@@ -9,7 +9,7 @@
 
 ## Introduction 
 
-A Pittsburgh local bubble tea delivery website that can help users find nearby bubble tea stores.
+Bubble Sort is an online boba tea delivery website built for a boba tea store located at Squirrel Hill, Pittsburgh. The website provides customer-side interfaces and owner-side interfaces to accommodate both needs.
 
 * Client-side framework : React
 * Server-side framework : Django 
